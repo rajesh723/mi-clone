@@ -1,0 +1,15 @@
+.NavCard{
+    cursor: pointer;
+    width: 10vmax;
+    text-align: center;
+    margin: 1vmax;
+}
+.NavCard>img{
+    width: 10vmax;
+}
+.NavCard>p{
+    margin: 0;
+}
+.NavCard>span{
+    color: orangered;
+}
